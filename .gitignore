@@ -1,0 +1,16 @@
+# Local LLaMA-Factory run scripts (not published)
+lf_*.sh
+
+# Data and outputs
+data/
+saves/
+outputs/
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Paper PDF (not published here)
+*.pdf
