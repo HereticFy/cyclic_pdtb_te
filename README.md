@@ -265,6 +265,10 @@ Run `python stage2_cross_task.py --help` for all options.
 
 We thank the authors and organisers of these projects for releasing their code and data.
 
+## License
+
+This code is released under the [MIT License](LICENSE).
+
 ## Citation
 
 If you use this code, please cite:
